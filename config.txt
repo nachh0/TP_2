@@ -2,6 +2,3 @@ En la misma carpeta tp_2 en la terminal, vincula tu repositorio local con el que
 
 Agrega el origen remoto (reemplaza con la URL de tu repositorio que copiaste en el Paso 1):
 git remote add origin https://github.com/nachh0/tp_2.git
-
-modificacion 5: Ese mensaje es el Modo Restringido (Restricted Mode) de Visual Studio Code. Es una medida de seguridad que desactiva extensiones,
-tareas automáticas y la terminal integrada para evitar que se ejecute código malicioso al abrir una carpeta nueva.
