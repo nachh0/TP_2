@@ -1,4 +1,10 @@
 modificacion 1: trabajo practico para aprobar udi 1
 modificado por nacho
 Esta es la primera modificacion que se realizo
+
 Modificado por valentin
+
+Modificado por valentin
+Ejercicio numer 5: El archivo que presenta conflictos es este mismo, es decir, notas.txt. Presenta diferencias solamente en una linea
+
+3c3205d7510d1a2c80adc9e58bce1625a742409f
