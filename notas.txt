@@ -1,7 +1,11 @@
 Esta es la primera modificacion que se realizo
 
+
 Modificado por valentin
 Ejercicio numer 5: El archivo que presenta conflictos es este mismo, es decir, notas.txt. Presenta diferencias solamente en una linea
 
 Modificado por valentin
  e2cb5cd (ejercicio_9)
+
+Modificado por valentin
+e2cb5cd (ejercicio_9)
