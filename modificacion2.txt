@@ -1,0 +1,3 @@
+modificacion 3: Si instalaste VS Code sin marcar la casilla 
+"Agregar al PATH" durante el instalador original, la forma más rápida de dejarlo automático es volver a ejecutar el instalador de Visual Studio Code, 
+elegir la opción de reparar/actualizar y asegurarte de marcar la casilla "Agregar al PATH disponible después de reiniciar
