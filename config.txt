@@ -1,0 +1,4 @@
+En la misma carpeta tp_2 en la terminal, vincula tu repositorio local con el que creaste en GitHub:
+
+Agrega el origen remoto (reemplaza con la URL de tu repositorio que copiaste en el Paso 1):
+git remote add origin https://github.com/nachh0/tp_2.git
